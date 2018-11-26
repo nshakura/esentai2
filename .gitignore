@@ -1,0 +1,15 @@
+*.pyc
+__pycache__
+.swp
+.tmp
+*.sqlite3
+.DS_Store
+.idea
+*.xml
+.ssh
+node_modules
+data/
+*.orig
+tmp
+onotole/celerybeat.pid
+docker-compose.override.yaml
